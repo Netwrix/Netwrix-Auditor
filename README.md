@@ -1,4 +1,4 @@
 # Netwrix-Auditor
 Netwrix Auditor Installation and Configuration Guide
 
-[online](https://www.netwrix.com/download/documents/Netwrix_Auditor_Installation_Configuration_Guide.pdf)
+[download Netwrix_Auditor_Installation_Configuration_Guide.pdf](https://www.netwrix.com/download/documents/Netwrix_Auditor_Installation_Configuration_Guide.pdf)
